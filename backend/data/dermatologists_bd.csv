@@ -1,0 +1,37 @@
+name,city,clinic,address,phone,map_link
+Dr. Syeda Ishrat Jahan,Dhaka,Square Hospital Panthapath,Panthapath Dhaka,+8801710000001,https://www.google.com/maps/search/?api=1&query=Square+Hospital+Dhaka
+Dr. Jasmin Manzoor,Dhaka,Evercare Hospital,Plot 81 Block E Bashundhara Dhaka,+8801710000002,https://www.google.com/maps/search/?api=1&query=Evercare+Hospital+Dhaka
+Dr. Nur Us Sama Loba,Dhaka,United Hospital,Gulshan 2 Dhaka,+8801710000003,https://www.google.com/maps/search/?api=1&query=United+Hospital+Dhaka
+Prof. Dr. Mahfuza Akter,Dhaka,Popular Diagnostic Center,Dhanmondi Dhaka,+8801710000004,https://www.google.com/maps/search/?api=1&query=Popular+Diagnostic+Dhanmondi
+Dr. Mir Nazrul Islam,Dhaka,Birdem General Hospital,Shahbag Dhaka,+8801710000005,https://www.google.com/maps/search/?api=1&query=Birdem+Hospital+Dhaka
+Dr. Md. Abdul Wahab,Dhaka,BSMMU Hospital,Shahbag Dhaka,+8801710000006,https://www.google.com/maps/search/?api=1&query=BSMMU+Hospital+Dhaka
+Dr. Samaresh Chandra Hazra,Dhaka,Dhaka Medical College Hospital,Secretariat Road Dhaka,+8801710000007,https://www.google.com/maps/search/?api=1&query=Dhaka+Medical+College+Hospital
+Dr. Anzirun Nahar Asma,Dhaka,Popular Diagnostic Center,Dhanmondi Dhaka,+8801710000008,https://www.google.com/maps/search/?api=1&query=Popular+Diagnostic+Dhanmondi
+Dr. Sharmin Sultana,Dhaka,BSMMU Hospital,Shahbag Dhaka,+8801710000009,https://www.google.com/maps/search/?api=1&query=BSMMU+Hospital+Dhaka
+Dr. Md. Shah Alam,Dhaka,Dhaka Medical College Hospital,Secretariat Road Dhaka,+8801710000010,https://www.google.com/maps/search/?api=1&query=Dhaka+Medical+College+Hospital
+
+Dr. Nishith Ranjan Dey,Chittagong,Belle Vue Hospital,GEC Circle Chittagong,+8801810000001,https://www.google.com/maps/search/?api=1&query=Belle+Vue+Hospital+Chittagong
+Dr. Esheta Irin,Chittagong,Parkview Hospital,Panchlaish Chittagong,+8801810000002,https://www.google.com/maps/search/?api=1&query=Parkview+Hospital+Chittagong
+Dr. S.M.M. Hasan,Chittagong,Chevron Clinical Laboratory,Mehedibag Chittagong,+8801810000003,https://www.google.com/maps/search/?api=1&query=Chevron+Clinic+Chittagong
+Dr. Ibrahim Khalil,Chittagong,Chevron Clinical Laboratory,Chittagong City,+8801810000004,https://www.google.com/maps/search/?api=1&query=Chevron+Clinic+Chittagong
+Dr. Mansurul Alam,Chittagong,Chittagong Medical College Hospital,Panchlaish Chittagong,+8801810000005,https://www.google.com/maps/search/?api=1&query=Chittagong+Medical+College+Hospital
+Dr. Amir Khasru,Chittagong,Max Hospital,Panchlaish Chittagong,+8801810000006,https://www.google.com/maps/search/?api=1&query=Max+Hospital+Chittagong
+Dr. Shamsun Nahar,Chittagong,Imperial Hospital,Zakir Hossain Road Chittagong,+8801810000007,https://www.google.com/maps/search/?api=1&query=Imperial+Hospital+Chittagong
+
+Dr. Abdul Ahad,Sylhet,Osmani Medical College Hospital,Sylhet City,+8801910000001,https://www.google.com/maps/search/?api=1&query=Osmani+Medical+College+Hospital+Sylhet
+Dr. Shahidul Islam,Sylhet,Mount Adora Hospital,Akhalia Sylhet,+8801910000002,https://www.google.com/maps/search/?api=1&query=Mount+Adora+Hospital+Sylhet
+Dr. Nazmul Islam,Sylhet,Popular Diagnostic Center,Zindabazar Sylhet,+8801910000003,https://www.google.com/maps/search/?api=1&query=Popular+Diagnostic+Sylhet
+Dr. Nazmul Hoque,Sylhet,Sylhet Womens Medical College Hospital,Mirboxtula Sylhet,+8801910000004,https://www.google.com/maps/search/?api=1&query=Sylhet+Womens+Medical+College
+Dr. Farid Uddin,Sylhet,Al Haramain Hospital,Subhanighat Sylhet,+8801910000005,https://www.google.com/maps/search/?api=1&query=Al+Haramain+Hospital+Sylhet
+
+Dr. Golam Rabbani,Khulna,Khulna Medical College Hospital,Khalishpur Khulna,+8801715000001,https://www.google.com/maps/search/?api=1&query=Khulna+Medical+College+Hospital
+Dr. Shafiqul Islam,Khulna,Gazi Medical College Hospital,Sonadanga Khulna,+8801715000002,https://www.google.com/maps/search/?api=1&query=Gazi+Medical+College+Hospital+Khulna
+Dr. Mizanur Rahman,Khulna,Islami Bank Hospital,Khulna City,+8801715000003,https://www.google.com/maps/search/?api=1&query=Islami+Bank+Hospital+Khulna
+Dr. Shahin Ahmed,Khulna,Khulna City Medical College Hospital,Khulna City,+8801715000004,https://www.google.com/maps/search/?api=1&query=Khulna+City+Medical+College
+Dr. Hasan Mahmud,Khulna,Gazi Medical College Hospital,Sonadanga Khulna,+8801715000005,https://www.google.com/maps/search/?api=1&query=Gazi+Medical+College+Hospital+Khulna
+
+Dr. Abul Kalam Azad,Rajshahi,Rajshahi Medical College Hospital,Laxmipur Rajshahi,+8801717000001,https://www.google.com/maps/search/?api=1&query=Rajshahi+Medical+College+Hospital
+Dr. Anwarul Islam,Rajshahi,Islami Bank Medical College Hospital,Airport Road Rajshahi,+8801717000002,https://www.google.com/maps/search/?api=1&query=Islami+Bank+Medical+College+Rajshahi
+Dr. Shamsul Alam,Rajshahi,Popular Diagnostic Center,Rajshahi City,+8801717000003,https://www.google.com/maps/search/?api=1&query=Popular+Diagnostic+Rajshahi
+Dr. Rabiul Islam,Rajshahi,Rajshahi Royal Hospital,Rajshahi City,+8801717000004,https://www.google.com/maps/search/?api=1&query=Rajshahi+Royal+Hospital
+Dr. Saiful Bari,Rajshahi,Islami Bank Medical College Hospital,Airport Road Rajshahi,+8801717000005,https://www.google.com/maps/search/?api=1&query=Islami+Bank+Medical+College+Rajshahi
