@@ -197,3 +197,15 @@ The project demonstration video includes:
 * OCR
 * Google Search API
 * LangSmith
+
+---
+
+# 🔮 Future Improvements
+
+Future versions of this project will include AI-based skin image analysis, allowing users to upload photos of their skin for more personalized skincare recommendations. Additionally, Orchestral AI agent coordination can be implemented to intelligently manage and prioritize multiple agents, making the system more scalable, efficient, and capable of handling complex user requests.
+
+---
+
+# 🌍 Real-World Impact
+
+This project addresses real-life skincare challenges by providing accessible AI-powered guidance, ingredient analysis, dermatologist recommendations, and document-based skincare knowledge in one platform. By combining multiple AI tools, the system helps users make informed skincare decisions without requiring immediate access to a specialist, making skincare information more accessible and practical for everyday use.
