@@ -129,7 +129,7 @@ skincare_chatbot
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/skincare-ai-chatbot.git
+git clone https://github.com/Nahinbinteazad/skincare_chatbot.git
 ```
 
 Move into the folder:
